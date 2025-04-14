@@ -32,7 +32,7 @@
 2. 上传本地图片：`up_img 图片路径`
 3. 临时切换用户/相册：`up_clip user1 123` 或 `up_img 图片路径 user2 234`
 
-[查看详细文档](./Chevereto-Uploader/README.md)
+[查看详细文档](./CheveretoUploader/README.md)
 
 ## 环境要求
 
